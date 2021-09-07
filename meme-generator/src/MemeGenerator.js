@@ -8,7 +8,7 @@ class MemeGenerator extends Component {
 
         render(){
             return (
-                <h1>Meme MemeGenerator</h1>
+                <h1>Meme Generator</h1>
             )
         }
     }
