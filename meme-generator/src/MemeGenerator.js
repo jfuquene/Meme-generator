@@ -11,8 +11,6 @@ class MemeGenerator extends Component {
         }
         
     }
-
-
         componentDidMount(){
             fetch("https://api.imgflip.com/get_memes")
             .then(res => res.json())
@@ -75,6 +73,4 @@ class MemeGenerator extends Component {
             )
         }
     }
-
-
 export default MemeGenerator
