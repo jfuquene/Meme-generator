@@ -14,7 +14,7 @@ header {
 
 header > img {
     height: 80%;
-    margin-left: 10%;
+    /* margin-left: 10%; */
 }
 
 header > p {
@@ -31,7 +31,7 @@ header > p {
 }
 
 .meme > img {
-    width:  1500px;
+    width:  1000px;
     object-fit: cover;
 }
 
@@ -46,7 +46,7 @@ header > p {
   font-family: impact, sans-serif;
   font-size: 3em;
   text-transform: uppercase;
-  color: gray;
+  color:white;
   letter-spacing: 1px;
   text-shadow:
       2px 2px 0 #000,
@@ -72,7 +72,7 @@ header > p {
   width: 90%;
   margin: 20px auto;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .meme-form > input {
