@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Meme-generator/static/css/main.556043fd.chunk.css",
-    "main.js": "/Meme-generator/static/js/main.7fba9796.chunk.js",
-    "main.js.map": "/Meme-generator/static/js/main.7fba9796.chunk.js.map",
-    "runtime-main.js": "/Meme-generator/static/js/runtime-main.35f7c768.js",
-    "runtime-main.js.map": "/Meme-generator/static/js/runtime-main.35f7c768.js.map",
-    "static/js/2.40ab9fb3.chunk.js": "/Meme-generator/static/js/2.40ab9fb3.chunk.js",
-    "static/js/2.40ab9fb3.chunk.js.map": "/Meme-generator/static/js/2.40ab9fb3.chunk.js.map",
-    "index.html": "/Meme-generator/index.html",
-    "static/css/main.556043fd.chunk.css.map": "/Meme-generator/static/css/main.556043fd.chunk.css.map",
-    "static/js/2.40ab9fb3.chunk.js.LICENSE.txt": "/Meme-generator/static/js/2.40ab9fb3.chunk.js.LICENSE.txt"
+    "main.css": "/Meme-generator/meme-generator/static/css/main.556043fd.chunk.css",
+    "main.js": "/Meme-generator/meme-generator/static/js/main.7fba9796.chunk.js",
+    "main.js.map": "/Meme-generator/meme-generator/static/js/main.7fba9796.chunk.js.map",
+    "runtime-main.js": "/Meme-generator/meme-generator/static/js/runtime-main.70f915dd.js",
+    "runtime-main.js.map": "/Meme-generator/meme-generator/static/js/runtime-main.70f915dd.js.map",
+    "static/js/2.40ab9fb3.chunk.js": "/Meme-generator/meme-generator/static/js/2.40ab9fb3.chunk.js",
+    "static/js/2.40ab9fb3.chunk.js.map": "/Meme-generator/meme-generator/static/js/2.40ab9fb3.chunk.js.map",
+    "index.html": "/Meme-generator/meme-generator/index.html",
+    "static/css/main.556043fd.chunk.css.map": "/Meme-generator/meme-generator/static/css/main.556043fd.chunk.css.map",
+    "static/js/2.40ab9fb3.chunk.js.LICENSE.txt": "/Meme-generator/meme-generator/static/js/2.40ab9fb3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.35f7c768.js",
+    "static/js/runtime-main.70f915dd.js",
     "static/js/2.40ab9fb3.chunk.js",
     "static/css/main.556043fd.chunk.css",
     "static/js/main.7fba9796.chunk.js"
